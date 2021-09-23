@@ -1,0 +1,7 @@
+E:\ТП\Classwork (22.09.21)\Classwork (22.09.21)\obj\Debug\Classwork (22.09.21).csproj.AssemblyReference.cache
+E:\ТП\Classwork (22.09.21)\Classwork (22.09.21)\obj\Debug\Classwork (22.09.21).csproj.CoreCompileInputs.cache
+E:\ТП\Classwork (22.09.21)\Classwork (22.09.21)\bin\Debug\Classwork (22.09.21).exe.config
+E:\ТП\Classwork (22.09.21)\Classwork (22.09.21)\bin\Debug\Classwork (22.09.21).exe
+E:\ТП\Classwork (22.09.21)\Classwork (22.09.21)\bin\Debug\Classwork (22.09.21).pdb
+E:\ТП\Classwork (22.09.21)\Classwork (22.09.21)\obj\Debug\Classwork (22.09.21).exe
+E:\ТП\Classwork (22.09.21)\Classwork (22.09.21)\obj\Debug\Classwork (22.09.21).pdb
